@@ -70,3 +70,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Refer Link
+https://hdtuto.com/article/image-upload-tutorial-with-laravel-58
+
+## Steps
+1. http://localhost/laravel_file_upload/public/image-upload
+2. choose image for upload this img in images folder and view uploaded image
+3. No any upload image in database 
+
+O/P: http://prntscr.com/siq4ez
+   : http://prntscr.com/siq4ny
+   
+   
