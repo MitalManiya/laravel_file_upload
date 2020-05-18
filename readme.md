@@ -74,7 +74,7 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 ## Refer Link
 https://hdtuto.com/article/image-upload-tutorial-with-laravel-58
 
-## Steps
+## Steps for upload and display uploadede image
 1. http://localhost/laravel_file_upload/public/image-upload
 2. choose image for upload this img in images folder and view uploaded image
 3. No any upload image in database 
@@ -82,4 +82,7 @@ https://hdtuto.com/article/image-upload-tutorial-with-laravel-58
 O/P: http://prntscr.com/siq4ez
    : http://prntscr.com/siq4ny
    
-   
+## Refer link for upload image in databse
+https://www.javatpoint.com/laravel-file-upload
+
+Not working now it's getting issue like this http://prntscr.com/sirtbm   
