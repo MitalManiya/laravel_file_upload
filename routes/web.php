@@ -19,3 +19,10 @@ Route::get('/', function () {
 Route::get('image-upload', 'ImageUploadController@imageUpload')->name('image.upload');
 
 Route::post('image-upload', 'ImageUploadController@imageUploadPost')->name('image.upload.post');
+
+// demo for upload file in images folder and database also
+//Route::get('/file-upload', function () {
+//    return view('imageform');
+//});
+
+Route::get('file-upload', 'ImageFormController@store')->name('file.upload');
